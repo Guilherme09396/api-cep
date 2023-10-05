@@ -1,0 +1,26 @@
+[
+  {
+    "cep": "57305-390",
+    "logradouro": "Rua Ângelo Tavares",
+    "complemento": "",
+    "bairro": "Baixão",
+    "localidade": "Arapiraca",
+    "uf": "AL",
+    "ibge": "2700300",
+    "gia": "",
+    "ddd": "82",
+    "siafi": "2705"
+  },
+  {
+    "cep": "03220-300",
+    "logradouro": "Avenida do Oratório",
+    "complemento": "de 5000 ao fim - lado par",
+    "bairro": "Jardim Ângela (Zona Leste)",
+    "localidade": "São Paulo",
+    "uf": "SP",
+    "ibge": "3550308",
+    "gia": "1004",
+    "ddd": "11",
+    "siafi": "7107"
+  }
+]
