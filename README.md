@@ -18,7 +18,7 @@ Uma api para consultar cep, onde tem uma única rota responsável por retornar o
 
 # Acesso ao Projeto
 📁
-Você pode [acessar o código fonte do projeto](#https://github.com/Guilherme09396/api-cep) ou [baixá-lo](#https://github.com/Guilherme09396/api-cep/archive/refs/heads/master.zip)
+Você pode [acessar o código fonte do projeto](https://github.com/Guilherme09396/api-cep) ou [baixá-lo](https://github.com/Guilherme09396/api-cep/archive/refs/heads/master.zip)
 
 # Abrir e rodar o projeto
 
