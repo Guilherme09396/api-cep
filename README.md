@@ -2,30 +2,27 @@
 
 # Índice
 
-- [Título e Imagem de capa](#Título-e-Imagem-de-capa)
-- [Badges](#badges)
 - [Índice](#índice)
 - [Descrição do Projeto](#descrição-do-projeto)
-- [Status do Projeto](#status-do-Projeto)
-- [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 - [Acesso ao Projeto](#acesso-ao-projeto)
-- [Tecnologias utilizadas](#tecnologias-utilizadas)
-- [Pessoas Contribuidoras](#pessoas-contribuidoras)
-- [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
-- [Licença](#licença)
-- [Conclusão](#conclusão)
+- [Abrir e rodar o projeto](#abrir-e-rodar-o-projeto)
+- [Rotas](#rotas)
+- [Parâmetros](#parâmetros)
+- [Respostas](#respostas)
+- [Demonstração da Aplicação](#demonstração-da-aplicação)
+- [Técnicas e tecnologias utilizadas](#técnicas-e-tecnologias-utilizadas)
 
 # descrição do projeto
 
 Uma api para consultar cep, onde tem uma única rota responsável por retornar o detalhamento do cep.
 
-# 📁 Acesso ao projeto
+# Acesso ao Projeto
+📁
+Você pode [acessar o código fonte do projeto](#https://github.com/Guilherme09396/api-cep) ou [baixá-lo](#https://github.com/Guilherme09396/api-cep/archive/refs/heads/master.zip)
 
-Você pode [acessar o código fonte do projeto](#badges) ou [baixá-lo](#badges)
+# Abrir e rodar o projeto
 
-# 🛠️ Abrir e rodar o projeto
-
-Após baixar o projeto, você pode abrir com o VSCode. Para isso, na tela inicial clique em:
+🛠️ Após baixar o projeto, você pode abrir com o VSCode. Para isso, na tela inicial clique em:
 
 - Arquivo, depois em abrir pasta.
 - Procure o local onde o projeto está e o selecione (Caso o projeto seja baixado via zip, é necessário extraí-lo antes de procurá-lo)
@@ -72,9 +69,18 @@ Após baixar o projeto, você pode abrir com o VSCode. Para isso, na tela inicia
 - Além de retornar um objeto com o detalhamento do cep,
   esse detalhamento é salvo no arquivo `enderecos.json`, **caso esse cep já não tenha sido consultado antes (ou seja, não terá repetição ao salvar no arquivo json)**
 
-### Exemplos
+### Demonstração da Aplicação
 
-# ✅ Técnicas e tecnologias utilizadas
+#### Formato inválido
+![](https://github.com/Guilherme09396/api-cep/blob/master/gifs/formato-invalido.gif)
+#### Cep inválido
+![](https://github.com/Guilherme09396/api-cep/blob/master/gifs/cep-invalido.gif)
+#### Cep passado corretamente
+![](https://github.com/Guilherme09396/api-cep/blob/master/gifs/cep-ok.gif)
+
+
+
+# Técnicas e tecnologias utilizadas
 
 - Node.js
 - express
