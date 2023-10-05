@@ -29,6 +29,7 @@ Você pode [acessar o código fonte do projeto](https://github.com/Guilherme0939
 - Por fim clique em OK
 - Após o projeto carregar no VSCode, rode o comando `npm install`
 - Após finalizar a instalação dos pacotes, rode o comando `npm run dev` para a execução do projeto;
+- Depois disso, o projeto está pronto para ser testado, pode testar tanto no navegador como em algum software como o postman ou insomnia
 
 ## Rotas
 
